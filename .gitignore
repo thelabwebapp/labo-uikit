@@ -7,11 +7,12 @@
 /coverage
 
 # production
-/dist
 /storybook-static
 
 # misc
 .DS_Store
+/.github
+/.storybook
 
 # debug
 npm-debug.log*
