@@ -39,9 +39,9 @@ const StyledCard = styled.div<StyledCardProps>`
   color: ${({ theme, isDisabled }) => theme.colors[isDisabled ? "textDisabled" : "text"]};
   overflow: hidden;
   position: relative;
-  width: 370px;
+  width: 340px;
   padding: 30px;
-  padding-top: 280px;
+  padding-top: 230px;
 
   ${space}
 `;
